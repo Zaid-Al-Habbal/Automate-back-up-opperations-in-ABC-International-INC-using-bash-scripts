@@ -1,1 +1,3 @@
-# Automate-back-up-opperations-in-ABC-International-INC-using-bash-scripts
+# Automate-backup-operations-in-ABC-International-INC-using-bash-scripts
+
+Welcome to the GitHub repository for our Automate backup operations in ABC International INC using bash scripts
